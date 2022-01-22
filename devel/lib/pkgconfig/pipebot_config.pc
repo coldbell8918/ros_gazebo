@@ -1,0 +1,8 @@
+prefix=/home/park/catkin_ws/devel
+
+Name: pipebot_config
+Description: Description of pipebot_config
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

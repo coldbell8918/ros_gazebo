@@ -1,0 +1,8 @@
+prefix=/home/park/catkin_ws/devel
+
+Name: gcamp_gazebo
+Description: Description of gcamp_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
